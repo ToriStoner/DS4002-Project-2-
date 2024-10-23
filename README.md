@@ -52,7 +52,7 @@ To reproduce the results of the analysis, follow the step-by-step instructions b
 - Install Python 3.12.6.
    - Install necessary packages using pip:
      ```
-     pip install pandas numpy matplotlib seaborn scikit-learn nltk wordcloud
+     pip install pandas numpy matplotlib seaborn scikit-learn folium statsmodels
      ```
      
 ### Step 2: Download dataset
